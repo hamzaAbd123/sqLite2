@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">sqLite</string>
+    <string name="mainentete"> Menu general</string>
+    <string name="allproduits"> Liste des produits</string>
+    <string name="newproduts"> Nouveau produits</string>
+    <string name="ficheProduits"> Fiche produits</string>
+    <string name="editerproduit"> Editer produit</string>
+
+    <string name="btn1"> Liste des produits</string>
+    <string name="btn2"> Fiche produit</string>
+    <string name="btn3"> Nouveau produit</string>
+    <string name="btn4"> Editer produit</string>
+    <string name="btnaj"> ajouter</string>
+    <string name="msgAdd">Ajouter Avec success</string>
+    <string name="msgErr">Remplir tous les champs</string>
+    <string name="msgEdi">Modifier avec Success</string>
+    <string name="btnEdi">Modifier</string>
+
+    <string name="hintLib">Libelle</string>
+    <string name="hintFa">Famille</string>
+    <string name="hintpa">Prix d achat</string>
+    <string name="hintpv">Prix de vente</string>
+</resources>
